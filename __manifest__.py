@@ -40,6 +40,7 @@
     'assets': {
         'web.assets_backend': [
             'awesome_tshirt/static/src/**/*',
+            'awesome_tshirt/static/lib/Chart.min.js'
         ],
     }
 }
